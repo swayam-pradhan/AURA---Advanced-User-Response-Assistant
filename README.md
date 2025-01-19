@@ -21,7 +21,7 @@ AURA is a voice-activated personal assistant designed to simplify daily tasks li
    <clipboard-copy> git clone https://github.com/swayam-pradhan/AURA---Advanced-User-Response-Assistant/ </clipboard-copy>
 2. Install the required libraries:
    ```bash
-pip install pyttsx3 speechrecognition wikipedia requests pyaudio
+   pip install pyttsx3 speechrecognition wikipedia requests pyaudio
 3. Obtain an OpenWeatherMap API key:
   * Visit OpenWeatherMap and sign up for a free API key.
   * Replace YOUR_OPENWEATHERMAP_API_KEY in the code with your API key.
